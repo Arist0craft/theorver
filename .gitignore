@@ -1,2 +1,9 @@
+.gitignore
 venv/
 .vscode/
+data/
+central
+1*
+2.*
+Central*
+.DS_Store
